@@ -1,0 +1,13 @@
+body{
+	background-color: #f9f9fa;
+}
+.container{
+	width: 50%;
+	background-color: #ffffff;
+	border-top: 3px solid #007bff;
+}
+@media (max-width: 575px){
+	.container{
+		width: 100%;
+	}
+}
